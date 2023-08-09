@@ -7,3 +7,5 @@ used graphs for visualization
 -line
 -bar
 -scatter
+
+I got help from chatGPT in this project

@@ -34,5 +34,5 @@ This project demonstrates how to predict housing prices using machine learning m
 - It's recommended to run the code in a suitable environment with required libraries installed.
 
 Author: Pickardss
-Date: 15/08/2023
+Date: 09/08/2023
 

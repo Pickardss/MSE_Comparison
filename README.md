@@ -36,3 +36,4 @@ This project demonstrates how to predict housing prices using machine learning m
 Author: Pickardss
 Date: 09/08/2023
 
+I got help from charGPT in this project
